@@ -671,7 +671,6 @@
   <block id="832210201d55f5c764a32c055a00b726" category="inline-link">Astra Control Automation 21.08文件</block>
   <block id="025fa2688359a439d7fa215fbbbaf287" category="list-text"><block ref="025fa2688359a439d7fa215fbbbaf287" category="inline-link-rx"></block></block>
   <block id="b844ee2db8fd78557f753d0c04015c4a" category="summary">Astra Control是NetApp軟體產品、可為Kubernetes應用程式提供資料生命週期管理功能。視您的環境而定、有兩種部署模式可供選擇。Astra Control Center 和 Astra Control Service 會根據版本而共用相同的 REST API 。您可以使用REST API和其他相關的自動化技術來管理Astra Control部署。</block>
-  <block id="1a0ca7f0a5aea880c24d544b4655d6ed" category="doc">Astra Control Automation文件</block>
   <block id="d4b519107715681619ac9ac9f0e7c2e8" category="summary">您需要選取LDAP伺服器、並設定Astra以使用伺服器做為驗證供應商。</block>
   <block id="5eb4ace08e506648d2ccc5e95a6d5d96" category="doc">設定Astra使用LDAP伺服器</block>
   <block id="a4cce93638d786143ceaec53646fcbd0" category="paragraph">您需要選取LDAP伺服器、並設定Astra以使用伺服器做為驗證供應商。組態工作包含下列步驟。每個步驟都包含單一REST API呼叫。</block>
@@ -1198,8 +1197,6 @@
   <block id="9a5f09cf66e692efdae493ce4c9aa64f" category="sidebar">準備</block>
   <block id="a7f5f35426b927411fc9231b56382173" category="sidebar">Python</block>
   <block id="ea1c0b8e4018f75659e26eb720b206e5" category="sidebar">以原生方式使用Python</block>
-  <block id="f21f22dde0e0692333a7a28cce456b08" category="sidebar">所有Astra文件</block>
-  <block id="c216e952dc373af46e9e31e0b8bdcf89" category="sidebar">Astra Automation</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
   <block id="824ee32982b0cc1ac1aca8447c9cb3cf" category="sidebar">應用程式控制</block>
@@ -1235,4 +1232,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="43a62b176f718092748cfb8e6a9afa19" category="sidebar">Astra Control Automation 23.04 文件</block>
 </blocks>
